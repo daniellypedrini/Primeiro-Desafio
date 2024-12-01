@@ -111,12 +111,12 @@ p {
 }
 
 @media screen and (max-width: 600px) {
+
     section {
         flex-direction: column;
         align-items: center;
-        padding: 0 10px;
-        
-margin: auto ;
+        padding: 0 10px;     
+    margin: auto ;
     }
 
     .links {
@@ -124,7 +124,7 @@ margin: auto ;
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin:30px 50px ;
+        margin:30px auto;
     }
 
     .menu {
@@ -137,21 +137,24 @@ margin: auto ;
     button {
         width: 100%;
         max-width: 250px;
-        margin-top: 15px;
+        margin: 30px auto;
+        display: flow-root;
     }
 
     img {
         width: 100%;
         max-width: 300px;
         height: auto;
-        margin: 30px 50px;
+        margin:30px auto;
+        display: flow-root;
     }
 
     h1 {
         font-size: 36px;
         line-height: 1.2;
         text-align: center;
-        margin:  30px 50px;
+        margin: 30px auto;
+        display: flow-root;
     }
 
 p {
@@ -160,13 +163,15 @@ p {
     font-size: 16px;
     line-height: 1.6;
     text-align: center;
-    margin: 30px 50px;
+    margin:30px auto;
+    display: flow-root;
 }
 
 .aside-text {
     text-align: center;
     margin: auto;
     font-size: 16px;
-    margin:  30px 50px;
+    margin: 30px auto;
+    display: flow-root;
 }
 }
