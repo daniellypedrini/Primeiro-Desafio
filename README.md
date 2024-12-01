@@ -7,5 +7,7 @@
   Ao passar o mouse no botão, programei para que houvesse pequenas alterações no hover, como alteração das cores e também fiz com que a
   fonte ficasse maior e todas as letras se tornassem maiúsculas. 
   São pequenas alterações, porém um grande progresso de muitos que ainda virão. </h2>
+
+[![We Care](https://img.shields.io/badge/Ver_Desafio-Click_Aqui-17233D?style=for-the-badge&labelColor=6FBF44)](https://daniellypedrini.github.io/Primeiro-Desafio/)
      
 <img src="https://github.com/daniellypedrini/Primeiro-Desafio/blob/main/assets/Wide%20Coverage%20Location-README.jpeg" alt="Wide-Coverade-Location-README">
